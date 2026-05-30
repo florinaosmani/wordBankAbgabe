@@ -1,15 +1,18 @@
 import classes from '../resources/css/components/newForm.module.css';
 import { useState } from 'react';
 
+const partsOfSpeech = ["verb", "adverb", "noun", "adjective", "pronoun", "preposition", "conjunction", "interjection"];
 function NewForm ({ onClickCancel, onSave, formError }) {
     const [newWord, setNewWord] = useState({word : '', syllables:'', pronunciation: ''});
     const [newDefinition, setNewDefinition] = useState({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''});
     const [definitions, setDefinitions] = useState([]);
     const [missingDef, setMissingDef] = useState(false);
     const [missingWord, setMissingWord] = useState(false);
+    const [wrongPos, setWrongPos] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+
         if (newDefinition.definition
             && newDefinition.pos
             && newDefinition.antonyms
@@ -19,37 +22,41 @@ function NewForm ({ onClickCancel, onSave, formError }) {
             && newWord.pronunciation
             && newWord.syllables
         ) {
-            const defFormatted = [];
-            const allDefs = [...definitions, newDefinition]; //safe version doesnt mutate state instead of definitions.push(newDefinition) not so good
-
-            allDefs.forEach((def) => {
-                defFormatted.push({
-                    definition: def.definition,
-                    partOfSpeech: def.pos,
-                    synonyms: def.synonyms.split(",").map(word => word.trim()),
-                    examples: def.examples.split('.').map(sentence => sentence.trim() + "."),
-                    antonyms: def.antonyms.split(',').map(word => word.trim()),
-                    isFavoriteDefinition: false,
-                    note: ''
+            if (partsOfSpeech.includes(newDefinition.pos)){
+                const defFormatted = [];
+                const allDefs = [...definitions, newDefinition]; //safe version doesnt mutate state instead of definitions.push(newDefinition) not so good
+ 
+                allDefs.forEach((def) => {
+                    defFormatted.push({
+                        definition: def.definition,
+                        partOfSpeech: def.pos,
+                        synonyms: def.synonyms.split(",").map(word => word.trim()),
+                        examples: def.examples.split('.').map(sentence => sentence.trim() + "."),
+                        antonyms: def.antonyms.split(',').map(word => word.trim()),
+                        isFavoriteDefinition: false,
+                        note: ''
+                    })
                 })
-            })
-            const word = {
-                word: newWord.word,
-                results : defFormatted,
-                syllables: parseInt(newWord.syllables), //syllables here is saved as stringcos e.target.value always gives u sstring? now save parsteINt(syllable) so it INT
-                pronunciation: newWord.pronunciation,
-                isFavoriteWord: false
-            };
+                const word = {
+                    word: newWord.word,
+                    results : defFormatted,
+                    syllables: parseInt(newWord.syllables), //syllables here is saved as stringcos e.target.value always gives u sstring? now save parsteINt(syllable) so it INT
+                    pronunciation: newWord.pronunciation,
+                    isFavoriteWord: false
+                };
 
-            const response = await onSave(word);
+                const response = await onSave(word);
 
-            if (!response) {
-                setDefinitions([]);
-                setNewWord({word : '', syllables:'', pronunciation: ''});
-                setNewDefinition({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''})
-                setMissingDef(false);
-                setMissingWord(false);
-                onClickCancel();
+                if (!response) {
+                    setDefinitions([]);
+                    setNewWord({word : '', syllables:'', pronunciation: ''});
+                    setNewDefinition({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''})
+                    setMissingDef(false);
+                    setMissingWord(false);
+                    onClickCancel();
+                }
+            } else {
+                setWrongPos(true);
             }
         } else {
             setMissingWord(true);
@@ -62,6 +69,10 @@ function NewForm ({ onClickCancel, onSave, formError }) {
     }
 
     const handleChangeDef = (e) => {
+        if (e.target.name == "pos") {
+            setWrongPos(false);
+        }
+
         setNewDefinition(prev => ({...prev, [e.target.name]: e.target.value}));
         setMissingDef(false);
         setMissingWord(false);
@@ -74,9 +85,13 @@ function NewForm ({ onClickCancel, onSave, formError }) {
             && newDefinition.synonyms
             && newDefinition.examples
         ) {
-            setDefinitions(prev => ([...prev, newDefinition]));
-            setNewDefinition({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''});
-            setMissingDef(false);
+            if(partsOfSpeech.includes(newDefinition.pos)){
+                setDefinitions(prev => ([...prev, newDefinition]));
+                setNewDefinition({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''});
+                setMissingDef(false);
+            } else {
+                setWrongPos(true);
+            }
         } else {
             setMissingDef(true);
         }
@@ -109,6 +124,7 @@ function NewForm ({ onClickCancel, onSave, formError }) {
                 <div>
                     <label htmlFor='pos'>Part of Speech</label>
                     <input id='pos' name='pos' type='text' value={newDefinition.pos} onChange={handleChangeDef} />
+                    {wrongPos && <p style={{marginLeft: 0.5 + "rem"}}>This is not a valid part of Speech! Try one of these: {partsOfSpeech.map((pos,i) => (i == partsOfSpeech.length -1 ) ? pos : pos + ", ")}</p>}
                 </div>
                 <div>
                     <label htmlFor='examples'>Examples *separated by period</label>
