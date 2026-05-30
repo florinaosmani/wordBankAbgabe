@@ -1,0 +1,32 @@
+.flexHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid black;
+}
+
+.flexHeader > button {
+    padding: 0.5rem;
+}
+
+.word {
+    display: flex;
+    border-bottom: 1px solid black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.word > *:last-child{
+    width: 70%;
+
+}
+
+.word > h3 {
+    width: 20%;
+}
+
+.word > button {
+    height: fit-content;
+    padding : 0.5rem;
+}

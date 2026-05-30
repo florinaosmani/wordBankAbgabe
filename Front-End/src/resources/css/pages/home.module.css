@@ -1,0 +1,9 @@
+.homeContainer {
+    margin-top: 4rem;
+    margin: 0 auto;
+}
+
+.homeContainer > *:last-child {
+    width: 60%;
+    margin: 4rem auto 0 auto;
+}

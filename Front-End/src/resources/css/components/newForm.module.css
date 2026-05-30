@@ -1,0 +1,55 @@
+.formContainer {
+    width: 60%;
+    height: 60vh;
+    border: 2px solid black;
+    background-color: white;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3rem 5rem;
+    overflow-y: scroll;
+}
+
+.fieldSet {
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.fieldSet legend {
+    font-weight: bold;
+}
+
+.fieldSet > div >*:first-child {
+    margin-right: 1rem;
+}
+
+.fieldSet > div {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fieldSet > div > *:nth-child(2) {
+    width: 80%;
+    padding: 0.5rem;
+}
+
+.fieldSet > button {
+    padding: 0.5rem 1rem;
+}
+
+.buttons {
+    margin-top: 2rem;
+}
+
+.buttons button {
+    width: 50%;
+    padding: 1rem;
+}
+
+.alert {
+    color: red;
+    font-size: 1.2rem;
+}

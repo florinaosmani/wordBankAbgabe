@@ -1,0 +1,21 @@
+.wordDefinitionContainer {
+    padding: 0.5rem;
+}
+
+.wordDefinitionContainer h3 {
+    font-size: 1rem;
+}
+
+.wordDefinitionContainer h3:first-child {
+    font-size: 1.2rem;
+}
+
+.wordDefinitionContainer li {
+    list-style: none;
+    margin-right: 0.3rem;
+}
+
+.wordDefinitionContainer ul {
+    display: flex;
+    flex-wrap: wrap;
+}

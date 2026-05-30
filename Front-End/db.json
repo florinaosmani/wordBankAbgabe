@@ -1,0 +1,3089 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "word": "set",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a group or collection of things that belong together",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "collection",
+            "group",
+            "series",
+            "assortment",
+            "batch",
+            "kit",
+            "array"
+          ],
+          "examples": [
+            "She bought a complete set of encyclopedias.",
+            "He owns a full set of vintage trading cards."
+          ],
+          "antonyms": [
+            "individual",
+            "single",
+            "unit"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to put, lay, or stand something in a specified place or position",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "place",
+            "put",
+            "position",
+            "lay",
+            "arrange",
+            "deposit",
+            "locate"
+          ],
+          "examples": [
+            "She set the vase on the windowsill.",
+            "He set his bag down and took a deep breath."
+          ],
+          "antonyms": [
+            "remove",
+            "lift",
+            "take away",
+            "displace"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "(of the sun or moon) to go below the horizon",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "sink",
+            "descend",
+            "go down",
+            "dip",
+            "disappear"
+          ],
+          "examples": [
+            "The sun set behind the mountains in a blaze of orange.",
+            "They watched the moon set over the ocean."
+          ],
+          "antonyms": [
+            "rise",
+            "ascend",
+            "climb",
+            "appear"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "fixed or established in advance; not changing",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "fixed",
+            "established",
+            "predetermined",
+            "rigid",
+            "firm",
+            "scheduled",
+            "definite"
+          ],
+          "examples": [
+            "The meeting starts at a set time every Monday.",
+            "She followed a set routine every morning without fail."
+          ],
+          "antonyms": [
+            "flexible",
+            "variable",
+            "changeable",
+            "fluid",
+            "open"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "the scenery and props used in a theatrical or film production",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "scenery",
+            "backdrop",
+            "stage",
+            "setting",
+            "scene",
+            "décor"
+          ],
+          "examples": [
+            "The set was designed to look like a 1920s New York apartment.",
+            "The entire cast gathered on set for the final scene."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "set"
+    },
+    {
+      "id": 1,
+      "word": "abundant",
+      "results": [
+        {
+          "definition": "existing or available in large quantities; more than enough",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "plentiful",
+            "ample",
+            "copious",
+            "profuse",
+            "lavish",
+            "bountiful",
+            "rich",
+            "generous"
+          ],
+          "examples": [
+            "The region has abundant natural resources.",
+            "There was abundant evidence to support the claim."
+          ],
+          "antonyms": [
+            "scarce",
+            "rare",
+            "sparse",
+            "lacking",
+            "insufficient",
+            "meager"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u0259\u02c8b\u028cnd\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 2,
+      "word": "benevolent",
+      "results": [
+        {
+          "definition": "well meaning and kindly disposed toward others",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "kind",
+            "charitable",
+            "generous",
+            "compassionate",
+            "philanthropic",
+            "altruistic",
+            "magnanimous"
+          ],
+          "examples": [
+            "She was a benevolent leader who always looked after her people.",
+            "The benevolent donor gave millions to the hospital."
+          ],
+          "antonyms": [
+            "malevolent",
+            "cruel",
+            "selfish",
+            "unkind",
+            "mean",
+            "spiteful"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "b\u0259\u02c8nev\u0259l\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 3,
+      "word": "concise",
+      "results": [
+        {
+          "definition": "giving a lot of information clearly and in few words; brief but comprehensive",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "brief",
+            "succinct",
+            "terse",
+            "compact",
+            "pithy",
+            "laconic",
+            "short"
+          ],
+          "examples": [
+            "His concise explanation made the topic easy to understand.",
+            "Please write a concise summary of the report."
+          ],
+          "antonyms": [
+            "lengthy",
+            "verbose",
+            "wordy",
+            "long-winded",
+            "rambling",
+            "prolix"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "k\u0259n\u02c8sa\u026as",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 4,
+      "word": "diligent",
+      "results": [
+        {
+          "definition": "having or showing care and conscientiousness in one's work or duties",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "hardworking",
+            "industrious",
+            "assiduous",
+            "conscientious",
+            "dedicated",
+            "persistent",
+            "tireless"
+          ],
+          "examples": [
+            "She was a diligent student who never missed a deadline.",
+            "His diligent efforts finally paid off."
+          ],
+          "antonyms": [
+            "lazy",
+            "idle",
+            "negligent",
+            "careless",
+            "slothful",
+            "inattentive"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8d\u026al\u026ad\u0292\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 5,
+      "word": "eloquent",
+      "results": [
+        {
+          "definition": "fluent or persuasive in speaking or writing",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "articulate",
+            "expressive",
+            "fluent",
+            "persuasive",
+            "well-spoken",
+            "silver-tongued"
+          ],
+          "examples": [
+            "She gave an eloquent speech that moved the entire audience.",
+            "He was an eloquent writer whose prose flowed beautifully."
+          ],
+          "antonyms": [
+            "inarticulate",
+            "tongue-tied",
+            "incoherent",
+            "mumbling",
+            "halting"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8el\u0259kw\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 6,
+      "word": "flourish",
+      "results": [
+        {
+          "definition": "to grow or develop in a healthy or vigorous way",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "thrive",
+            "prosper",
+            "bloom",
+            "blossom",
+            "grow",
+            "succeed",
+            "burgeon"
+          ],
+          "examples": [
+            "The business began to flourish after the new manager took over.",
+            "Plants flourish in warm, humid conditions."
+          ],
+          "antonyms": [
+            "wither",
+            "decline",
+            "fail",
+            "struggle",
+            "languish",
+            "deteriorate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a bold or extravagant gesture or action made especially to attract attention",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "gesture",
+            "display",
+            "show",
+            "fanfare",
+            "wave"
+          ],
+          "examples": [
+            "He signed his name with a dramatic flourish.",
+            "She entered the room with a flourish."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8fl\u028cr\u026a\u0283",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 7,
+      "word": "gratitude",
+      "results": [
+        {
+          "definition": "the quality of being thankful and appreciative",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "thankfulness",
+            "appreciation",
+            "gratefulness",
+            "recognition",
+            "acknowledgment"
+          ],
+          "examples": [
+            "She expressed her gratitude with a heartfelt letter.",
+            "He felt deep gratitude toward those who had helped him."
+          ],
+          "antonyms": [
+            "ingratitude",
+            "ungratefulness",
+            "thanklessness",
+            "indifference"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8\u0261r\u00e6t\u026atju\u02d0d",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 8,
+      "word": "harmony",
+      "results": [
+        {
+          "definition": "the quality of forming a pleasing and consistent whole",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "balance",
+            "accord",
+            "unity",
+            "concord",
+            "consonance",
+            "symmetry",
+            "cohesion"
+          ],
+          "examples": [
+            "The colors in the painting were in perfect harmony.",
+            "The two nations lived in harmony for decades."
+          ],
+          "antonyms": [
+            "discord",
+            "conflict",
+            "dissonance",
+            "imbalance",
+            "chaos",
+            "disagreement"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "the combination of simultaneously sounded musical notes to produce a pleasing effect",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "chord",
+            "melody",
+            "consonance",
+            "tune"
+          ],
+          "examples": [
+            "The choir sang in beautiful three-part harmony."
+          ],
+          "antonyms": [
+            "dissonance",
+            "discord"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8h\u0251\u02d0rm\u0259ni",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 9,
+      "word": "illuminate",
+      "results": [
+        {
+          "definition": "to light up or brighten a place",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "light up",
+            "brighten",
+            "irradiate",
+            "shine on",
+            "lighten"
+          ],
+          "examples": [
+            "Candles illuminated the dark room.",
+            "The streetlamps illuminate the road at night."
+          ],
+          "antonyms": [
+            "darken",
+            "dim",
+            "obscure",
+            "shadow",
+            "cloud"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to help clarify or explain something",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "clarify",
+            "explain",
+            "elucidate",
+            "enlighten",
+            "shed light on"
+          ],
+          "examples": [
+            "The documentary illuminated the struggles of rural communities.",
+            "His lecture illuminated a complex scientific concept."
+          ],
+          "antonyms": [
+            "confuse",
+            "obscure",
+            "muddle",
+            "complicate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "\u026a\u02c8lu\u02d0m\u026ane\u026at",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 10,
+      "word": "jubilant",
+      "results": [
+        {
+          "definition": "feeling or expressing great happiness and triumph",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "elated",
+            "joyful",
+            "triumphant",
+            "exultant",
+            "overjoyed",
+            "ecstatic",
+            "thrilled"
+          ],
+          "examples": [
+            "The team was jubilant after winning the championship.",
+            "A jubilant crowd filled the streets in celebration."
+          ],
+          "antonyms": [
+            "dejected",
+            "sorrowful",
+            "miserable",
+            "despondent",
+            "downcast",
+            "sad"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8d\u0292u\u02d0b\u026al\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 11,
+      "word": "keen",
+      "results": [
+        {
+          "definition": "having or showing eagerness or enthusiasm",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "eager",
+            "enthusiastic",
+            "avid",
+            "zealous",
+            "fervent",
+            "passionate",
+            "motivated"
+          ],
+          "examples": [
+            "She was keen to learn everything about photography.",
+            "He showed a keen interest in the project."
+          ],
+          "antonyms": [
+            "indifferent",
+            "apathetic",
+            "unenthusiastic",
+            "reluctant",
+            "disinterested"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "having a sharp edge or point",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "sharp",
+            "razor-sharp",
+            "acute",
+            "fine"
+          ],
+          "examples": [
+            "The chef used a keen blade to slice the vegetables."
+          ],
+          "antonyms": [
+            "blunt",
+            "dull"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "ki\u02d0n",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 12,
+      "word": "lament",
+      "results": [
+        {
+          "definition": "to mourn or express deep sorrow or regret",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "mourn",
+            "grieve",
+            "weep",
+            "bemoan",
+            "bewail",
+            "deplore",
+            "sorrow"
+          ],
+          "examples": [
+            "She lamented the loss of her childhood home.",
+            "He lamented that he had never learned to play the piano."
+          ],
+          "antonyms": [
+            "celebrate",
+            "rejoice",
+            "revel",
+            "cheer",
+            "exult"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a passionate expression of grief or sorrow",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "elegy",
+            "dirge",
+            "moan",
+            "wail",
+            "complaint",
+            "threnody"
+          ],
+          "examples": [
+            "The poem was a lament for a lost era.",
+            "His song was a lament for those who had fallen in battle."
+          ],
+          "antonyms": [
+            "celebration",
+            "anthem",
+            "cheer"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "l\u0259\u02c8ment",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 13,
+      "word": "meticulous",
+      "results": [
+        {
+          "definition": "showing great attention to detail or being very careful and precise",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "careful",
+            "precise",
+            "thorough",
+            "scrupulous",
+            "painstaking",
+            "fastidious",
+            "exact",
+            "detailed"
+          ],
+          "examples": [
+            "The architect was meticulous in reviewing every drawing.",
+            "Her meticulous approach ensured the project had no errors."
+          ],
+          "antonyms": [
+            "careless",
+            "sloppy",
+            "negligent",
+            "haphazard",
+            "imprecise",
+            "inaccurate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "m\u0259\u02c8t\u026akj\u028al\u0259s",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 14,
+      "word": "narrative",
+      "results": [
+        {
+          "definition": "a spoken or written account of connected events; a story",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "story",
+            "account",
+            "tale",
+            "chronicle",
+            "description",
+            "report",
+            "history"
+          ],
+          "examples": [
+            "The novel's narrative spans three generations.",
+            "She told a compelling narrative about her travels."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "relating to or characteristic of narration",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "storytelling",
+            "descriptive",
+            "expository"
+          ],
+          "examples": [
+            "The film uses a narrative structure that jumps back and forth in time."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8n\u00e6r\u0259t\u026av",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 15,
+      "word": "obsolete",
+      "results": [
+        {
+          "definition": "no longer produced or used; out of date",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "outdated",
+            "outmoded",
+            "antiquated",
+            "archaic",
+            "dated",
+            "defunct",
+            "old-fashioned",
+            "extinct"
+          ],
+          "examples": [
+            "Fax machines have become largely obsolete.",
+            "Many obsolete words have disappeared from everyday speech."
+          ],
+          "antonyms": [
+            "current",
+            "modern",
+            "contemporary",
+            "up-to-date",
+            "new",
+            "relevant",
+            "innovative"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02cc\u0252bs\u0259\u02c8li\u02d0t",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 16,
+      "word": "persevere",
+      "results": [
+        {
+          "definition": "to continue in a course of action despite difficulty or delay in achieving success",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "persist",
+            "endure",
+            "continue",
+            "press on",
+            "carry on",
+            "keep going",
+            "remain steadfast"
+          ],
+          "examples": [
+            "Despite the setbacks, she persevered and finished her degree.",
+            "You must persevere if you want to master a new skill."
+          ],
+          "antonyms": [
+            "give up",
+            "quit",
+            "surrender",
+            "abandon",
+            "capitulate",
+            "falter"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "\u02ccp\u025c\u02d0rs\u026a\u02c8v\u026a\u0259r",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 17,
+      "word": "quaint",
+      "results": [
+        {
+          "definition": "attractively unusual or old-fashioned in character",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "charming",
+            "picturesque",
+            "old-fashioned",
+            "curious",
+            "unusual",
+            "whimsical",
+            "queer"
+          ],
+          "examples": [
+            "The village was full of quaint little cottages.",
+            "She had a quaint way of expressing herself."
+          ],
+          "antonyms": [
+            "modern",
+            "ordinary",
+            "conventional",
+            "unremarkable",
+            "plain"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "kwe\u026ant",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 18,
+      "word": "resilient",
+      "results": [
+        {
+          "definition": "able to withstand or recover quickly from difficult conditions",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "tough",
+            "strong",
+            "adaptable",
+            "durable",
+            "hardy",
+            "flexible",
+            "robust",
+            "tenacious"
+          ],
+          "examples": [
+            "Children are often more resilient than adults expect.",
+            "The resilient community rebuilt quickly after the flood."
+          ],
+          "antonyms": [
+            "fragile",
+            "weak",
+            "vulnerable",
+            "delicate",
+            "brittle",
+            "susceptible"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "r\u026a\u02c8z\u026ali\u0259nt",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 19,
+      "word": "serene",
+      "results": [
+        {
+          "definition": "calm, peaceful, and untroubled; tranquil",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "calm",
+            "peaceful",
+            "tranquil",
+            "placid",
+            "still",
+            "untroubled",
+            "composed",
+            "restful"
+          ],
+          "examples": [
+            "She remained serene even in the face of chaos.",
+            "The lake looked serene in the early morning light."
+          ],
+          "antonyms": [
+            "agitated",
+            "troubled",
+            "anxious",
+            "turbulent",
+            "restless",
+            "disturbed",
+            "chaotic"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "s\u0259\u02c8ri\u02d0n",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 20,
+      "word": "tenacious",
+      "results": [
+        {
+          "definition": "holding firmly to something; very determined and persistent",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "persistent",
+            "determined",
+            "resolute",
+            "stubborn",
+            "dogged",
+            "relentless",
+            "unyielding",
+            "steadfast"
+          ],
+          "examples": [
+            "She was tenacious in her pursuit of justice.",
+            "His tenacious grip on the rope saved his life."
+          ],
+          "antonyms": [
+            "weak",
+            "irresolute",
+            "yielding",
+            "flexible",
+            "wavering",
+            "submissive"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "t\u026a\u02c8ne\u026a\u0283\u0259s",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 21,
+      "word": "unique",
+      "results": [
+        {
+          "definition": "being the only one of its kind; unlike anything else",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "distinct",
+            "singular",
+            "one-of-a-kind",
+            "unparalleled",
+            "exceptional",
+            "rare",
+            "unmatched"
+          ],
+          "examples": [
+            "Each snowflake has a unique pattern.",
+            "Her singing voice was truly unique."
+          ],
+          "antonyms": [
+            "common",
+            "ordinary",
+            "typical",
+            "usual",
+            "conventional",
+            "average"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "ju\u02d0\u02c8ni\u02d0k",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 22,
+      "word": "vivid",
+      "results": [
+        {
+          "definition": "producing powerful feelings or strong, clear images in the mind",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "striking",
+            "bright",
+            "intense",
+            "graphic",
+            "lifelike",
+            "sharp",
+            "colorful",
+            "bold"
+          ],
+          "examples": [
+            "She had a vivid memory of the accident.",
+            "The artist used vivid colors to capture the sunset."
+          ],
+          "antonyms": [
+            "dull",
+            "faded",
+            "vague",
+            "dim",
+            "pale",
+            "lifeless",
+            "muted"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8v\u026av\u026ad",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 23,
+      "word": "wary",
+      "results": [
+        {
+          "definition": "feeling or showing caution about possible dangers or problems",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "cautious",
+            "careful",
+            "guarded",
+            "alert",
+            "watchful",
+            "suspicious",
+            "vigilant",
+            "chary"
+          ],
+          "examples": [
+            "She was wary of strangers after the incident.",
+            "Investors were wary of putting money into the volatile market."
+          ],
+          "antonyms": [
+            "careless",
+            "reckless",
+            "trustful",
+            "naive",
+            "unsuspecting",
+            "incautious"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8we\u0259ri",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 24,
+      "word": "yearn",
+      "results": [
+        {
+          "definition": "to have an intense feeling of longing for something, typically something lost or out of reach",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "long for",
+            "crave",
+            "desire",
+            "pine",
+            "hunger",
+            "wish",
+            "covet",
+            "ache"
+          ],
+          "examples": [
+            "She yearned to return to her hometown.",
+            "He yearned for a simpler way of life."
+          ],
+          "antonyms": [
+            "dread",
+            "loathe",
+            "despise",
+            "reject",
+            "shun"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "j\u025c\u02d0rn",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 25,
+      "word": "zeal",
+      "results": [
+        {
+          "definition": "great energy or enthusiasm in pursuit of a cause or objective",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "enthusiasm",
+            "passion",
+            "eagerness",
+            "fervor",
+            "ardor",
+            "devotion",
+            "zest",
+            "dedication"
+          ],
+          "examples": [
+            "She approached every task with incredible zeal.",
+            "His zeal for reform made him a powerful political figure."
+          ],
+          "antonyms": [
+            "apathy",
+            "indifference",
+            "lethargy",
+            "laziness",
+            "disinterest",
+            "inertia"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "zi\u02d0l",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 26,
+      "word": "ambiguous",
+      "results": [
+        {
+          "definition": "open to more than one interpretation; not having one obvious meaning",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "unclear",
+            "vague",
+            "equivocal",
+            "uncertain",
+            "indefinite",
+            "obscure",
+            "cryptic"
+          ],
+          "examples": [
+            "The instructions were ambiguous and caused a lot of confusion.",
+            "His ambiguous response left everyone guessing."
+          ],
+          "antonyms": [
+            "clear",
+            "unambiguous",
+            "definite",
+            "explicit",
+            "obvious",
+            "plain",
+            "certain"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 4,
+      "pronunciation": "\u00e6m\u02c8b\u026a\u0261ju\u0259s",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 27,
+      "word": "brevity",
+      "results": [
+        {
+          "definition": "concise and exact use of words in writing or speech",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "conciseness",
+            "shortness",
+            "terseness",
+            "succinctness",
+            "pithiness",
+            "economy"
+          ],
+          "examples": [
+            "The essay was praised for its clarity and brevity.",
+            "Brevity is the soul of wit, as Shakespeare wrote."
+          ],
+          "antonyms": [
+            "verbosity",
+            "wordiness",
+            "long-windedness",
+            "prolixity",
+            "length"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8brev\u026ati",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 28,
+      "word": "candid",
+      "results": [
+        {
+          "definition": "truthful and straightforward; frank and honest",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "frank",
+            "honest",
+            "open",
+            "straightforward",
+            "direct",
+            "sincere",
+            "forthright",
+            "blunt"
+          ],
+          "examples": [
+            "She gave a candid account of what had happened.",
+            "I appreciated his candid feedback on my work."
+          ],
+          "antonyms": [
+            "dishonest",
+            "evasive",
+            "deceptive",
+            "insincere",
+            "secretive",
+            "guarded"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8k\u00e6nd\u026ad",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 29,
+      "word": "empathy",
+      "results": [
+        {
+          "definition": "the ability to understand and share the feelings of another person",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "compassion",
+            "understanding",
+            "sensitivity",
+            "sympathy",
+            "insight",
+            "consideration"
+          ],
+          "examples": [
+            "Good doctors show empathy toward their patients.",
+            "She listened with empathy as he described his struggles."
+          ],
+          "antonyms": [
+            "indifference",
+            "apathy",
+            "callousness",
+            "coldness",
+            "insensitivity"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8emp\u0259\u03b8i",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 30,
+      "word": "frugal",
+      "results": [
+        {
+          "definition": "sparing or economical with regard to money or food; avoiding waste",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "thrifty",
+            "economical",
+            "sparing",
+            "careful",
+            "prudent",
+            "austere",
+            "penny-wise"
+          ],
+          "examples": [
+            "She was frugal with her savings and rarely splurged.",
+            "His frugal lifestyle allowed him to retire early."
+          ],
+          "antonyms": [
+            "wasteful",
+            "extravagant",
+            "lavish",
+            "spendthrift",
+            "reckless",
+            "prodigal"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8fru\u02d0\u0261\u0259l",
+      "isFavoriteWord": false
+    },
+    {
+      "id": 31,
+      "word": "bear",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a large, heavy mammal with thick fur and a short tail",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "grizzly",
+            "bruin",
+            "polar bear",
+            "black bear"
+          ],
+          "examples": [
+            "A bear wandered into the campsite.",
+            "The bear hibernates during winter."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to carry or support the weight of something",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "carry",
+            "support",
+            "hold",
+            "sustain",
+            "shoulder"
+          ],
+          "examples": [
+            "The bridge can bear the weight of heavy trucks.",
+            "She bore the responsibility with grace."
+          ],
+          "antonyms": [
+            "drop",
+            "release",
+            "abandon",
+            "relinquish"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to endure or tolerate something difficult",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "endure",
+            "tolerate",
+            "stand",
+            "withstand",
+            "suffer",
+            "stomach"
+          ],
+          "examples": [
+            "I can't bear the sound of nails on a chalkboard.",
+            "He bore the pain without complaint."
+          ],
+          "antonyms": [
+            "reject",
+            "refuse",
+            "avoid",
+            "resist"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "an investor who expects prices to fall in the financial market",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "pessimist",
+            "short-seller"
+          ],
+          "examples": [
+            "The bears on Wall Street predicted a market crash.",
+            "He was a bear on tech stocks."
+          ],
+          "antonyms": [
+            "bull"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "be\u0259r"
+    },
+    {
+      "id": 32,
+      "word": "cast",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to throw something forcefully in a specified direction",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "throw",
+            "hurl",
+            "fling",
+            "toss",
+            "pitch",
+            "lob"
+          ],
+          "examples": [
+            "He cast the fishing line into the river.",
+            "She cast the stone across the water."
+          ],
+          "antonyms": [
+            "catch",
+            "receive",
+            "hold"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "the actors taking part in a play, film, or other production",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "actors",
+            "performers",
+            "ensemble",
+            "company",
+            "troupe"
+          ],
+          "examples": [
+            "The cast of the film gave outstanding performances.",
+            "The entire cast took a bow at the end."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to assign a role to an actor in a production",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "assign",
+            "appoint",
+            "select",
+            "choose",
+            "pick"
+          ],
+          "examples": [
+            "She was cast as the villain in the new thriller.",
+            "The director cast unknown actors in the lead roles."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a hard protective shell worn around a broken limb while it heals",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "plaster cast",
+            "splint",
+            "mold"
+          ],
+          "examples": [
+            "He had to wear a cast on his arm for six weeks.",
+            "Everyone signed their name on her cast."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "k\u0251\u02d0st"
+    },
+    {
+      "id": 33,
+      "word": "draft",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a preliminary version of a piece of writing",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "outline",
+            "sketch",
+            "rough copy",
+            "version",
+            "plan",
+            "blueprint"
+          ],
+          "examples": [
+            "She submitted the first draft of her novel to the editor.",
+            "This is just a rough draft; it still needs a lot of work."
+          ],
+          "antonyms": [
+            "final version",
+            "finished product"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a current of cool air in a room or enclosed space",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "breeze",
+            "current",
+            "flow",
+            "gust",
+            "waft"
+          ],
+          "examples": [
+            "There was a cold draft coming through the window.",
+            "Close the door \u2014 there's a draft in here."
+          ],
+          "antonyms": [
+            "stillness",
+            "calm"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to write a preliminary version of a document",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "compose",
+            "write",
+            "draw up",
+            "prepare",
+            "formulate",
+            "sketch out"
+          ],
+          "examples": [
+            "The lawyer drafted the contract overnight.",
+            "He drafted a letter of complaint to the company."
+          ],
+          "antonyms": [
+            "finalize",
+            "complete",
+            "publish"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "compulsory recruitment into military service",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "conscription",
+            "enlistment",
+            "call-up",
+            "levy",
+            "induction"
+          ],
+          "examples": [
+            "Many young men tried to avoid the draft during the war.",
+            "The government reinstated the draft during the national emergency."
+          ],
+          "antonyms": [
+            "discharge",
+            "exemption",
+            "deferment"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "dr\u0251\u02d0ft"
+    },
+    {
+      "id": 34,
+      "word": "engage",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to occupy or attract someone's interest or attention",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "captivate",
+            "attract",
+            "interest",
+            "absorb",
+            "involve",
+            "engross"
+          ],
+          "examples": [
+            "The speaker struggled to engage the audience.",
+            "A good book engages your imagination."
+          ],
+          "antonyms": [
+            "bore",
+            "disengage",
+            "repel",
+            "alienate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to participate or become involved in something",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "participate",
+            "take part",
+            "join",
+            "involve oneself",
+            "partake"
+          ],
+          "examples": [
+            "Students are encouraged to engage in extracurricular activities.",
+            "He refused to engage in the debate."
+          ],
+          "antonyms": [
+            "withdraw",
+            "abstain",
+            "disengage",
+            "avoid"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to hire or employ someone",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "hire",
+            "employ",
+            "appoint",
+            "recruit",
+            "retain",
+            "commission"
+          ],
+          "examples": [
+            "The firm engaged a consultant to review their processes.",
+            "They engaged a new lawyer for the case."
+          ],
+          "antonyms": [
+            "dismiss",
+            "fire",
+            "discharge",
+            "release"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to begin fighting or come into conflict with an enemy",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "fight",
+            "battle",
+            "clash",
+            "confront",
+            "attack",
+            "combat"
+          ],
+          "examples": [
+            "The troops engaged the enemy at dawn.",
+            "The two fleets engaged in a fierce naval battle."
+          ],
+          "antonyms": [
+            "retreat",
+            "withdraw",
+            "flee",
+            "surrender"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u026an\u02c8\u0261e\u026ad\u0292"
+    },
+    {
+      "id": 35,
+      "word": "fair",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "treating people equally without favoritism or discrimination",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "just",
+            "impartial",
+            "unbiased",
+            "equitable",
+            "neutral",
+            "objective",
+            "even-handed"
+          ],
+          "examples": [
+            "The judge was known for being fair and impartial.",
+            "All employees deserve fair treatment."
+          ],
+          "antonyms": [
+            "unfair",
+            "unjust",
+            "biased",
+            "partial",
+            "discriminatory"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "(of weather) fine and dry",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "clear",
+            "fine",
+            "sunny",
+            "bright",
+            "dry",
+            "pleasant",
+            "cloudless"
+          ],
+          "examples": [
+            "We were lucky to have fair weather for the picnic.",
+            "The forecast promises fair skies all weekend."
+          ],
+          "antonyms": [
+            "stormy",
+            "cloudy",
+            "rainy",
+            "foul",
+            "overcast"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a public event with rides, games, and entertainment",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "carnival",
+            "festival",
+            "exhibition",
+            "fete",
+            "expo",
+            "show"
+          ],
+          "examples": [
+            "The children were excited to go to the county fair.",
+            "She won a goldfish at the fair."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "having light-colored hair or skin",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "light",
+            "blonde",
+            "pale",
+            "fair-skinned",
+            "flaxen"
+          ],
+          "examples": [
+            "She had fair hair and blue eyes.",
+            "People with fair skin should wear sunscreen."
+          ],
+          "antonyms": [
+            "dark",
+            "swarthy",
+            "brunette"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "fe\u0259r"
+    },
+    {
+      "id": 36,
+      "word": "grasp",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to seize and hold something firmly",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "grip",
+            "clutch",
+            "grab",
+            "seize",
+            "clasp",
+            "clench",
+            "hold"
+          ],
+          "examples": [
+            "She grasped the railing to stop herself from falling.",
+            "He grasped the rope with both hands."
+          ],
+          "antonyms": [
+            "release",
+            "drop",
+            "let go",
+            "free",
+            "loosen"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to understand something fully",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "understand",
+            "comprehend",
+            "follow",
+            "take in",
+            "absorb",
+            "perceive",
+            "fathom"
+          ],
+          "examples": [
+            "It took a while to grasp the complexity of the problem.",
+            "She grasped the concept immediately."
+          ],
+          "antonyms": [
+            "misunderstand",
+            "miss",
+            "overlook",
+            "confuse"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a firm hold or grip on something",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "grip",
+            "hold",
+            "clutch",
+            "clasp",
+            "clench"
+          ],
+          "examples": [
+            "The wet bar slipped from his grasp.",
+            "She kept the document firmly within her grasp."
+          ],
+          "antonyms": [
+            "release",
+            "looseness"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a person's understanding or knowledge of something",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "understanding",
+            "comprehension",
+            "knowledge",
+            "mastery",
+            "command",
+            "awareness"
+          ],
+          "examples": [
+            "He has an excellent grasp of mathematics.",
+            "The topic is within every student's grasp."
+          ],
+          "antonyms": [
+            "ignorance",
+            "confusion",
+            "incomprehension"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "\u0261r\u0251\u02d0sp"
+    },
+    {
+      "id": 37,
+      "word": "harbor",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a place on the coast where ships may moor in shelter",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "port",
+            "dock",
+            "haven",
+            "anchorage",
+            "marina",
+            "wharf",
+            "quay"
+          ],
+          "examples": [
+            "The fishing boats returned to the harbor at dusk.",
+            "The storm made it impossible to leave the harbor."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to keep a thought or feeling, especially a negative one, in one's mind",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "hold",
+            "nurse",
+            "nurture",
+            "entertain",
+            "cherish",
+            "cling to",
+            "foster"
+          ],
+          "examples": [
+            "She harbored a deep resentment toward her former boss.",
+            "He harbored doubts about the plan for years."
+          ],
+          "antonyms": [
+            "release",
+            "let go",
+            "relinquish",
+            "abandon",
+            "dismiss"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to give shelter or refuge to someone, especially a criminal",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "shelter",
+            "hide",
+            "conceal",
+            "protect",
+            "shield",
+            "house",
+            "give refuge to"
+          ],
+          "examples": [
+            "He was accused of harboring a fugitive.",
+            "The family harbored refugees during the conflict."
+          ],
+          "antonyms": [
+            "expose",
+            "hand over",
+            "betray",
+            "surrender"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8h\u0251\u02d0rb\u0259r"
+    },
+    {
+      "id": 38,
+      "word": "infer",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to deduce or conclude information from evidence and reasoning",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "deduce",
+            "conclude",
+            "gather",
+            "reason",
+            "surmise",
+            "figure out",
+            "derive"
+          ],
+          "examples": [
+            "From his silence, she inferred that he disagreed.",
+            "We can infer from the data that sales are declining."
+          ],
+          "antonyms": [
+            "state explicitly",
+            "assert",
+            "declare"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to suggest or imply something indirectly",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "imply",
+            "suggest",
+            "indicate",
+            "hint",
+            "intimate"
+          ],
+          "examples": [
+            "Are you inferring that I made a mistake?",
+            "His tone inferred disapproval without saying it outright."
+          ],
+          "antonyms": [
+            "state",
+            "declare",
+            "announce"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to point to something as a logical consequence",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "point to",
+            "signify",
+            "indicate",
+            "entail",
+            "lead to"
+          ],
+          "examples": [
+            "The evidence infers a pattern of deliberate misconduct.",
+            "This result infers the need for further testing."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u026an\u02c8f\u025c\u02d0r"
+    },
+    {
+      "id": 39,
+      "word": "jade",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a hard, typically green stone used for ornaments and jewelry",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "nephrite",
+            "jadeite",
+            "gemstone"
+          ],
+          "examples": [
+            "She wore a necklace carved from jade.",
+            "The museum displayed ancient jade artifacts."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a shade of green resembling the color of jade stone",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "green",
+            "emerald green",
+            "sea green",
+            "moss green"
+          ],
+          "examples": [
+            "The walls were painted a soothing jade.",
+            "Her eyes were a deep shade of jade."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to make someone feel tired, bored, or lacking enthusiasm through overexposure",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "tire",
+            "weary",
+            "bore",
+            "exhaust",
+            "dull",
+            "satiate"
+          ],
+          "examples": [
+            "Years of travel had jaded her sense of wonder.",
+            "The repetitive work jaded even the most enthusiastic employees."
+          ],
+          "antonyms": [
+            "invigorate",
+            "energize",
+            "excite",
+            "inspire",
+            "refresh"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "d\u0292e\u026ad"
+    },
+    {
+      "id": 40,
+      "word": "kindle",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to light or set fire to something",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "ignite",
+            "light",
+            "set alight",
+            "start",
+            "spark",
+            "inflame"
+          ],
+          "examples": [
+            "He kindled a fire to keep warm through the night.",
+            "She kindled the campfire with dry twigs."
+          ],
+          "antonyms": [
+            "extinguish",
+            "quench",
+            "smother",
+            "douse",
+            "put out"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to arouse or inspire a feeling or emotion",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "arouse",
+            "inspire",
+            "spark",
+            "stir",
+            "awaken",
+            "stimulate",
+            "ignite",
+            "evoke"
+          ],
+          "examples": [
+            "The trip kindled a passion for art in her.",
+            "His words kindled hope in the hearts of the people."
+          ],
+          "antonyms": [
+            "suppress",
+            "extinguish",
+            "dampen",
+            "stifle",
+            "discourage"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a group of kittens born to the same mother at one time",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "litter",
+            "brood"
+          ],
+          "examples": [
+            "The cat gave birth to a kindle of five kittens.",
+            "The kindle was found huddled together in the barn."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8k\u026and\u0259l"
+    },
+    {
+      "id": 41,
+      "word": "lean",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to be in or move into a sloping position",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "tilt",
+            "slope",
+            "incline",
+            "slant",
+            "tip",
+            "bend"
+          ],
+          "examples": [
+            "She leaned against the wall and waited.",
+            "The old tower leans slightly to one side."
+          ],
+          "antonyms": [
+            "straighten",
+            "stand upright",
+            "erect"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "thin, especially healthily so; having little fat",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "slim",
+            "slender",
+            "thin",
+            "trim",
+            "wiry",
+            "lithe",
+            "svelte",
+            "spare"
+          ],
+          "examples": [
+            "Athletes tend to have lean, muscular bodies.",
+            "He looked lean and fit after months of training."
+          ],
+          "antonyms": [
+            "fat",
+            "overweight",
+            "plump",
+            "chubby",
+            "obese",
+            "stout"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "(of meat) containing little fat",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "low-fat",
+            "unfatty",
+            "trimmed"
+          ],
+          "examples": [
+            "Choose lean cuts of meat for a healthier diet.",
+            "The recipe calls for lean ground beef."
+          ],
+          "antonyms": [
+            "fatty",
+            "marbled",
+            "greasy"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to rely on or turn to someone for support",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "rely on",
+            "depend on",
+            "count on",
+            "turn to",
+            "trust in"
+          ],
+          "examples": [
+            "She leaned on her friends during the difficult period.",
+            "He leaned on his mentor for advice throughout his career."
+          ],
+          "antonyms": [
+            "be independent",
+            "stand alone",
+            "self-rely"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "li\u02d0n"
+    },
+    {
+      "id": 42,
+      "word": "manifest",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "clear and obvious to the eye or mind",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "obvious",
+            "clear",
+            "evident",
+            "apparent",
+            "plain",
+            "visible",
+            "conspicuous",
+            "patent"
+          ],
+          "examples": [
+            "Her disappointment was manifest in her expression.",
+            "There was a manifest lack of preparation for the event."
+          ],
+          "antonyms": [
+            "hidden",
+            "concealed",
+            "obscure",
+            "subtle",
+            "unclear",
+            "latent"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to display or show a quality or feeling by one's acts",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "show",
+            "display",
+            "demonstrate",
+            "exhibit",
+            "reveal",
+            "express",
+            "reflect"
+          ],
+          "examples": [
+            "The illness can manifest as fatigue and fever.",
+            "His anxiety manifested itself in nervous laughter."
+          ],
+          "antonyms": [
+            "conceal",
+            "hide",
+            "suppress",
+            "mask",
+            "disguise"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a document listing the cargo, passengers, or contents of a ship or aircraft",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "list",
+            "inventory",
+            "log",
+            "record",
+            "register",
+            "document"
+          ],
+          "examples": [
+            "The customs officer checked the ship's manifest.",
+            "All goods must be declared on the cargo manifest."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 3,
+      "pronunciation": "\u02c8m\u00e6n\u026afest"
+    },
+    {
+      "id": 43,
+      "word": "novel",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a long fictional prose narrative",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "book",
+            "story",
+            "fiction",
+            "narrative",
+            "tale",
+            "work of fiction"
+          ],
+          "examples": [
+            "She read the novel in a single weekend.",
+            "His debut novel won several prestigious awards."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "interestingly new or unusual; not previously encountered",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "new",
+            "original",
+            "fresh",
+            "innovative",
+            "unique",
+            "uncommon",
+            "inventive",
+            "unprecedented"
+          ],
+          "examples": [
+            "Scientists developed a novel approach to treating the disease.",
+            "The startup had a novel idea that disrupted the industry."
+          ],
+          "antonyms": [
+            "old",
+            "familiar",
+            "conventional",
+            "ordinary",
+            "traditional",
+            "established"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "relating to or characteristic of a novel as a literary form",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "fictional",
+            "narrative",
+            "literary",
+            "prose-based"
+          ],
+          "examples": [
+            "The novel form allows deep exploration of character.",
+            "He studied novel structure in his creative writing course."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8n\u0252v\u0259l"
+    },
+    {
+      "id": 44,
+      "word": "obscure",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "not discovered or known about; uncertain",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "unknown",
+            "unheard-of",
+            "little-known",
+            "forgotten",
+            "nameless",
+            "inconspicuous"
+          ],
+          "examples": [
+            "He was an obscure poet until his work was rediscovered.",
+            "The film was based on an obscure medieval legend."
+          ],
+          "antonyms": [
+            "famous",
+            "well-known",
+            "renowned",
+            "celebrated",
+            "prominent"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "not clearly expressed or easily understood",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "unclear",
+            "vague",
+            "cryptic",
+            "ambiguous",
+            "puzzling",
+            "confusing",
+            "abstruse",
+            "opaque"
+          ],
+          "examples": [
+            "The instructions were too obscure to follow.",
+            "His writing style is deliberately obscure."
+          ],
+          "antonyms": [
+            "clear",
+            "plain",
+            "obvious",
+            "straightforward",
+            "intelligible"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to keep from being seen; to conceal or make unclear",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "hide",
+            "conceal",
+            "cover",
+            "veil",
+            "shroud",
+            "mask",
+            "blur",
+            "cloud"
+          ],
+          "examples": [
+            "Fog obscured the view of the mountains.",
+            "His smile obscured his true feelings."
+          ],
+          "antonyms": [
+            "reveal",
+            "expose",
+            "uncover",
+            "clarify",
+            "illuminate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u0259b\u02c8skj\u028a\u0259r"
+    },
+    {
+      "id": 45,
+      "word": "plain",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "not decorated or elaborate; simple in character",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "simple",
+            "basic",
+            "unadorned",
+            "bare",
+            "modest",
+            "austere",
+            "restrained"
+          ],
+          "examples": [
+            "She wore a plain white dress to the ceremony.",
+            "The room was furnished in a plain, minimalist style."
+          ],
+          "antonyms": [
+            "fancy",
+            "ornate",
+            "elaborate",
+            "decorated",
+            "complex",
+            "luxurious"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "easy to understand or perceive; clear",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "clear",
+            "obvious",
+            "evident",
+            "apparent",
+            "simple",
+            "straightforward",
+            "unmistakable"
+          ],
+          "examples": [
+            "The instructions were written in plain English.",
+            "It was plain that she was upset."
+          ],
+          "antonyms": [
+            "unclear",
+            "ambiguous",
+            "confusing",
+            "obscure",
+            "complex"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "a large area of flat land with few trees",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "flatland",
+            "grassland",
+            "prairie",
+            "steppe",
+            "savanna",
+            "plateau",
+            "meadow"
+          ],
+          "examples": [
+            "Herds of buffalo once roamed the great plains.",
+            "The plain stretched as far as the eye could see."
+          ],
+          "antonyms": [
+            "mountain",
+            "hill",
+            "valley"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "not attractive or good-looking",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "unattractive",
+            "ordinary-looking",
+            "unassuming",
+            "unremarkable"
+          ],
+          "examples": [
+            "He described himself as plain but charming.",
+            "She had a plain appearance but a magnetic personality."
+          ],
+          "antonyms": [
+            "beautiful",
+            "attractive",
+            "stunning",
+            "handsome",
+            "gorgeous"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "ple\u026an"
+    },
+    {
+      "id": 46,
+      "word": "reign",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "the period during which a monarch rules",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "rule",
+            "sovereignty",
+            "dominion",
+            "leadership",
+            "tenure",
+            "kingship"
+          ],
+          "examples": [
+            "The queen's reign lasted over seventy years.",
+            "During the reign of King Henry VIII, England changed dramatically."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to hold royal office; to rule as a king or queen",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "rule",
+            "govern",
+            "lead",
+            "command",
+            "sit on the throne"
+          ],
+          "examples": [
+            "She reigned over the kingdom for four decades.",
+            "The emperor reigned but did not govern directly."
+          ],
+          "antonyms": [
+            "abdicate",
+            "relinquish",
+            "surrender power"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to be the best or most powerful in a particular area",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "dominate",
+            "prevail",
+            "be supreme",
+            "be paramount",
+            "hold sway",
+            "triumph"
+          ],
+          "examples": [
+            "Silence reigned in the courtroom after the verdict.",
+            "Chaos reigned in the streets following the announcement."
+          ],
+          "antonyms": [
+            "submit",
+            "yield",
+            "lose"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "re\u026an"
+    },
+    {
+      "id": 47,
+      "word": "steep",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "rising or falling sharply; nearly perpendicular",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "sharp",
+            "sheer",
+            "abrupt",
+            "precipitous",
+            "vertical",
+            "near-vertical"
+          ],
+          "examples": [
+            "The hikers struggled up the steep mountain path.",
+            "The road had a steep incline that tested the engine."
+          ],
+          "antonyms": [
+            "gentle",
+            "gradual",
+            "flat",
+            "level",
+            "shallow"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "(of a price) very high and possibly unreasonable",
+          "partOfSpeech": "adjective",
+          "synonyms": [
+            "expensive",
+            "costly",
+            "high",
+            "excessive",
+            "exorbitant",
+            "overpriced",
+            "unreasonable"
+          ],
+          "examples": [
+            "The hotel rates were a bit steep for a budget traveler.",
+            "The fines for parking violations are steep in this city."
+          ],
+          "antonyms": [
+            "cheap",
+            "reasonable",
+            "affordable",
+            "modest",
+            "low"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to soak something in liquid in order to soften or flavor it",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "soak",
+            "immerse",
+            "submerge",
+            "marinate",
+            "saturate",
+            "infuse"
+          ],
+          "examples": [
+            "Steep the tea leaves in hot water for five minutes.",
+            "The fruit was steeped in brandy overnight."
+          ],
+          "antonyms": [
+            "drain",
+            "dry"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to pervade or fill with a quality or influence",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "immerse",
+            "saturate",
+            "imbue",
+            "infuse",
+            "permeate",
+            "fill"
+          ],
+          "examples": [
+            "The city is steeped in history and tradition.",
+            "She steeped herself in the culture of the country she visited."
+          ],
+          "antonyms": [
+            "detach",
+            "isolate",
+            "separate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "sti\u02d0p"
+    },
+    {
+      "id": 48,
+      "word": "temper",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a person's state of mind or mood, especially regarding calmness or anger",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "mood",
+            "temperament",
+            "disposition",
+            "humor",
+            "nature",
+            "attitude"
+          ],
+          "examples": [
+            "He had a short temper and would snap easily.",
+            "She managed to keep her temper throughout the argument."
+          ],
+          "antonyms": [
+            "composure",
+            "calmness",
+            "patience",
+            "serenity"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to make something less extreme or intense; to moderate",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "moderate",
+            "soften",
+            "tone down",
+            "mitigate",
+            "ease",
+            "lessen",
+            "balance"
+          ],
+          "examples": [
+            "She tempered her criticism with some genuine praise.",
+            "The warm weather tempered the harshness of winter."
+          ],
+          "antonyms": [
+            "intensify",
+            "worsen",
+            "heighten",
+            "aggravate",
+            "exacerbate"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to harden metal by heating and then cooling it",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "harden",
+            "strengthen",
+            "toughen",
+            "anneal",
+            "treat"
+          ],
+          "examples": [
+            "The blacksmith tempered the steel blade in cold water.",
+            "Properly tempered metal is far more resilient."
+          ],
+          "antonyms": [
+            "soften",
+            "weaken"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to tune a piano or other instrument to a standard temperament",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "tune",
+            "adjust",
+            "calibrate",
+            "pitch"
+          ],
+          "examples": [
+            "The technician came to temper the grand piano before the concert.",
+            "A well-tempered instrument sounds harmonious across all keys."
+          ],
+          "antonyms": [],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8temp\u0259r"
+    },
+    {
+      "id": 49,
+      "word": "venture",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "a risky or daring journey or undertaking",
+          "partOfSpeech": "noun",
+          "synonyms": [
+            "undertaking",
+            "enterprise",
+            "endeavor",
+            "project",
+            "mission",
+            "expedition",
+            "pursuit"
+          ],
+          "examples": [
+            "Starting a business is always a risky venture.",
+            "Their joint venture brought together two rival companies."
+          ],
+          "antonyms": [
+            "safety",
+            "certainty",
+            "guarantee"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to dare to do something or go somewhere that may be dangerous",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "dare",
+            "risk",
+            "attempt",
+            "try",
+            "brave",
+            "embark on",
+            "undertake"
+          ],
+          "examples": [
+            "She ventured into the dark forest alone.",
+            "He ventured an opinion despite the hostile crowd."
+          ],
+          "antonyms": [
+            "retreat",
+            "avoid",
+            "refrain",
+            "withdraw",
+            "hold back"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to put something at risk in the hope of a greater gain",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "risk",
+            "stake",
+            "gamble",
+            "wager",
+            "hazard",
+            "invest"
+          ],
+          "examples": [
+            "He ventured his entire savings on the new startup.",
+            "Nothing ventured, nothing gained."
+          ],
+          "antonyms": [
+            "protect",
+            "secure",
+            "guarantee",
+            "preserve"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 2,
+      "pronunciation": "\u02c8vent\u0283\u0259r"
+    },
+    {
+      "id": 50,
+      "word": "wield",
+      "isFavoriteWord": false,
+      "results": [
+        {
+          "definition": "to hold and use a weapon or tool effectively",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "brandish",
+            "handle",
+            "use",
+            "employ",
+            "swing",
+            "flourish",
+            "manipulate"
+          ],
+          "examples": [
+            "The knight wielded his sword with great skill.",
+            "She wielded the hammer and drove the nail in one blow."
+          ],
+          "antonyms": [
+            "drop",
+            "relinquish",
+            "surrender",
+            "lay down"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to have and use power or influence",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "exert",
+            "exercise",
+            "have",
+            "possess",
+            "apply",
+            "employ",
+            "command"
+          ],
+          "examples": [
+            "The CEO wielded enormous influence over the board.",
+            "She wielded her authority with fairness and conviction."
+          ],
+          "antonyms": [
+            "lack",
+            "surrender",
+            "forfeit",
+            "relinquish"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        },
+        {
+          "definition": "to manage or control something with skill",
+          "partOfSpeech": "verb",
+          "synonyms": [
+            "control",
+            "manage",
+            "direct",
+            "operate",
+            "handle",
+            "master"
+          ],
+          "examples": [
+            "He wielded language with the precision of a poet.",
+            "She wielded complex data to make her argument compelling."
+          ],
+          "antonyms": [
+            "mismanage",
+            "fumble",
+            "mishandle"
+          ],
+          "isFavoriteDefinition": false,
+          "note": ""
+        }
+      ],
+      "syllables": 1,
+      "pronunciation": "wi\u02d0ld"
+    }
+  ]
+}

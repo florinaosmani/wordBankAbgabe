@@ -1,0 +1,20 @@
+.checkBoxContainer {
+    border: 2px solid black;
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 18rem;
+}
+
+.checkBoxContainer div {
+    margin-bottom: 0.2rem;
+    width: 50%;
+}
+
+.checkBoxContainer div:last-child {
+    margin-bottom: 0;
+}
+
+.checkBoxContainer label {
+    margin-left: 0.5rem;
+}

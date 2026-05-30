@@ -1,0 +1,31 @@
+/*Question stuff*/
+
+.questionContainer {
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 1rem;
+    align-items: center;
+}
+
+.questionContainer input {
+    line-height: 1rem;
+}
+
+.questionContainer button {
+    height: fit-content;
+    padding: 0.2rem 0.5rem;
+}
+
+.borderStyling {
+    border: 1px solid black;
+    display: flex;
+    padding: 0.5rem 1rem;
+    align-items: center;
+}
+
+.borderStyling > *:nth-child(2),
+.borderStyling >*:last-child,
+.questionContainer button {
+    margin-left: 1rem;
+}

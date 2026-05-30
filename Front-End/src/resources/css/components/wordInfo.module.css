@@ -1,0 +1,23 @@
+.basicInfoContainer {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.basicInfoContainer h2 {
+    font-size: 1rem;
+}
+
+.basicInfoContainer > * {
+    padding: 0.5rem;
+}
+
+.basicInfoContainer > *:first-child,
+.basicInfoContainer > *:nth-child(2) {
+    margin-right: 4rem;
+}
+
+.basicInfoContainer > *:nth-child(2),
+.basicInfoContainer > *:last-child {
+    border-left: 1px solid black;
+}
