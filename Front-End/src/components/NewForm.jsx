@@ -22,14 +22,14 @@ function NewForm ({ onClickCancel, onSave, formError }) {
             && newWord.pronunciation
             && newWord.syllables
         ) {
-            if (partsOfSpeech.includes(newDefinition.pos)){
+            if (partsOfSpeech.includes(newDefinition.pos.toLowerCase())){
                 const defFormatted = [];
                 const allDefs = [...definitions, newDefinition]; //safe version doesnt mutate state instead of definitions.push(newDefinition) not so good
  
                 allDefs.forEach((def) => {
                     defFormatted.push({
                         definition: def.definition,
-                        partOfSpeech: def.pos,
+                        partOfSpeech: def.pos.toLowerCase(),
                         synonyms: def.synonyms.split(",").map(word => word.trim()),
                         examples: def.examples.split('.').map(sentence => sentence.trim() + "."),
                         antonyms: def.antonyms.split(',').map(word => word.trim()),
@@ -85,8 +85,8 @@ function NewForm ({ onClickCancel, onSave, formError }) {
             && newDefinition.synonyms
             && newDefinition.examples
         ) {
-            if(partsOfSpeech.includes(newDefinition.pos)){
-                setDefinitions(prev => ([...prev, newDefinition]));
+            if(partsOfSpeech.includes(newDefinition.pos.toLowerCase())){
+                setDefinitions(prev => ([...prev, {...newDefinition, pos: newDefinition.pos.toLowerCase()}]));
                 setNewDefinition({definition: '', pos: '', examples: '', synonyms: '', antonyms: ''});
                 setMissingDef(false);
             } else {
