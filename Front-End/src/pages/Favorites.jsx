@@ -44,17 +44,21 @@ function Favorites () {
     }
 
     const handleClickEdit = (e) => {
+        const wordData = filteredWords.filter(word => word.id == e.currentTarget.value.split("_")[1])[0];
+        
         if (deleteError) {
             setDeleteError(null);
             setShowEdit(true);
             setFavDefIndex(e.currentTarget.value.split("_")[0]);
             setFavIndex(e.currentTarget.value.split("_")[1]);
+            setNote(wordData.results[e.currentTarget.value.split("_")[0]].note);
         }
        
         if(!showEdit && favIndex === null){
             setShowEdit(true);
             setFavDefIndex(e.currentTarget.value.split("_")[0]);
             setFavIndex(e.currentTarget.value.split("_")[1]);
+            setNote(wordData.results[e.currentTarget.value.split("_")[0]].note);
         }
     }
 
