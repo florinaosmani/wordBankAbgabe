@@ -103,7 +103,7 @@ function NewForm ({ onClickCancel, onSave, formError }) {
             <fieldset className={classes.fieldSet}>
                 <legend>Basics</legend>
                 <div>
-                    <label htmlFor='word'>Word:</label>
+                    <label htmlFor='word'>Word</label>
                     <input id="word" name="word" type="text" value={newWord.word} onChange={handleChangeWord}  autoFocus/>
                 </div>
                 <div>
